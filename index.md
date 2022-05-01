@@ -1,5 +1,5 @@
 # Mutirão de Classicas Digitais-2022
-## Projeto de extensão promovido pela UNESP/FCLAr
+## Projeto de extensão promovido pela FCLAr/UNESP
 
 ### Descrição
 
