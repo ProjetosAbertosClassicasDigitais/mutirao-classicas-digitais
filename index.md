@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+# MutirãoClassicasDigitais-2022
+## Projeto de extensão promovido pela UNESP/FCLAr
 
-You can use the [editor on GitHub](https://github.com/ProjetosAbertosClassicasDigitais/mutirao-classicas-digitais/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Descrição
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Este mutirão é parte do projeto de extensão intitulado _Mutirão de Anotação de Corpus em Letras Clássicas Digitais_, oferecido de forma remota pela Faculdade de Letras da UNESP de Araraquara, com o apoio de plataformas desenvolvidas pelo [Projeto Alpheios](https://github.com/alpheios-project), [Perseus Digital Library e Projeto Perseids, da Tufts University](https://github.com/PerseusDL) em parceria com U. de Leipzig, [Sunoikisis Digital Classics](https://sunoikisisdc.github.io/),  [Furman U.](https://furman-editions-in-progress.github.io/UNESP_FU/), parceiros colaboradores dos Projetos Abertos em Clássicas Digitais (CNPq).
 
-### Markdown
+O objetivo do projeto de extensão é ampliar a revisão e publicação do corpus de publicações de treebank dos Projetos Abertos em Clássicas Digitais na coleção Perseids no Github, e de publicações de traduções alinhadas de grego ou latim com português nos ambientes web a serem criados para o projeto, por meio do trabalho colaborativo entre externos com experiência nas referidas línguas e participantes internos também familiarizados com os procedimentos e operações digitais.</p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+O programa contém treinamento de anotação em corpus digital dentro da área de clássicas, realizado por meio de plataformas para trabalho colaborativo, e a dinâmica envolve formação de pequenos grupos liderados com pessoas com experiências diversas, orientados pelos mais experientes na prática de anotação e alinhamento.
 
-```markdown
-Syntax highlighted code block
+A seleção do corpus será feita a partir da triagem dos inscritos, adotando-se algumas traduções autorizadas disponíveis para a realização das anotações e alinhamentos. Além das plataformas de anotação e alinhamento, usaremos todos os recursos disponíveis para coletar os informações e dados sobre o corpus a ser trabalhado. O tempo e a velocidade de trabalho dentro da vigência do projeto será o delimitador do volume e extensão de dados a serem publicados. A estimativa é alcançar em torno de 20 mil types e 100 mil tokens trabalhados no total de textos trabalhados e também realizar uma avaliação dos alinhamentos em relação a suas plataformas.
 
-# Header 1
-## Header 2
-### Header 3
+O produto do mutirão será a publicação eletrônica dos trabalhos realizados.
+Um exemplo de como será o produto final pode ser consultado em:
+- treebank: https://perseids-publications.github.io/unesp-trees/
+- alinhamentos: http://ugarit.ialigner.com/ 
+ou em sites a serem formados.
 
-- Bulleted
-- List
+Email para contato: classicas.digitais@gmail.com 
 
-1. Numbered
-2. List
+### Equipe UNESP/FCLAr
 
-**Bold** and _Italic_ and `Code` text
+* Anise D'Orange Ferreira, profª drª Coord. PR. 
+* M. Celeste C. Dezotti,  profª drª Pesq.Colab. Participante
+* Michel F. dos Reis, doutor colab. (área de grego)
+* Lucas C. Dezotti, doutorando colab. (área de latim)
+* Murilo G. Alves, mestrando colab. (área de grego)
+* Anderson Alves Moris, graduando colab. (área de grego)
+* David V.Feltz, graduando colab. (área de grego)
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ProjetosAbertosClassicasDigitais/mutirao-classicas-digitais/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Equipe externa associada
