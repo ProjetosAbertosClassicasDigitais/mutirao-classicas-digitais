@@ -30,3 +30,11 @@ Email para contato: classicas.digitais@gmail.com
 * David V.Feltz, graduando colab. (área de grego)
 
 ### Equipe externa associada
+
+* Simone de Oliveira, profª drª, Participante, UFRJ
+* Pedro R. Martins,  prof.dr., Participante, UFRJ
+
+### Participantes inscritos
+
+* TBC
+
