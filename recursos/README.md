@@ -5,7 +5,7 @@
 *  [AGDT 2 - Ancient Greek Dependency Treebank 2 => SG Giuseppe Celano](https://github.com/PerseusDL/treebank_data/blob/master/AGDT2/guidelines/Greek_guidelines.md)
 *  [ALDT - Ancient Latin Dependency Treebank - original em inglês](https://drive.google.com/file/d/1jDzC_sNkLmH8dGt_LB5PZpRJxLSDM2Ot/view?usp=sharing)
 *  [ALDT - Ancient Latin Dependency Treebank - em português](https://drive.google.com/file/d/1Fpuwy6I2ow1xBjiLSLRsN_4zVJdDcids/view?usp=sharing)
-
+* [Orientação complementar para as guidelines](https://github.com/aniseferreira/LetrasClassicasDigitais/blob/master/exemplos-anotacao-arvores.md) - exemplos de árvores que costumam gerar dúvidas na anotação (in progress).
 
 ## Consultas em treebanks
 *  [Como fazer consultas de treebanks no Perseus Tündra ](https://docs.google.com/document/d/19WPl8VhEv7o1N2QR5WwPER3wJmjiDnEDVeTu15H8A4M/edit?usp=sharing)
