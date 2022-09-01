@@ -1,4 +1,4 @@
-# Recursos para o Mutirão
+# Recursos para o Mutirão em Clássicas Digitais
 ## Guidelines para treebanking 
 *  [AGDT 1 - Ancient Greek Dependency Treebank 1 Bamman & Crane 2009 traduzido em português](https://drive.google.com/file/d/0BzWgyyc96J7LTWJEUzFibWx6MEE/view?usp=sharing&resourcekey=0-swJM3GDBRRfQoIETnwat_w)
 *  [AGDT 1 - o mesmo em inglês](https://drive.google.com/file/d/1NqFUHRN13hC1CCzGfk-damJ-Sb_C7RDr/view?usp=sharing)
