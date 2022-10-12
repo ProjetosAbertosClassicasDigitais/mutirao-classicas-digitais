@@ -18,7 +18,7 @@ Um exemplo de como será o produto final pode ser consultado em:
 ou em sites a serem formados.
 
 Email para contato: classicas.digitais@gmail.com 
-* [Ver pasta de recursos](#/recursos/)
+* [Ver pasta de recursos](https://github.com/ProjetosAbertosClassicasDigitais/mutirao-classicas-digitais/tree/main/recursos)
 
 ### Equipe UNESP/FCLAr
 
