@@ -22,3 +22,10 @@
 * [Linguística de corpus, treebanks e a reinvenção da filologia](https://drive.google.com/file/d/11AAnGBwGTZi5Rhb2kh9lYxF_g-MmzBs0/view?usp=sharing) em português - David Bamman, Gregory Crane.
 * [The Ancient Greek Dependency Treebank: Linguistic Annotation in a Teaching Environment](https://drive.google.com/file/d/1Is197ZNyizFYdu_dgEjkx4RNYC3q5Eza/view?usp=sharing)- Francesco Mambrini 2016.
 * [Tesnière, 1959: Élements de linguistique structurale- grammaire de dépendence](https://drive.google.com/file/d/1Pdt-ctu6xEhdmovEk_64MXLhMPhGhBIi/view?usp=sharing)
+
+## Plataformas de alinhamento de tradução 
+
+* [UGARIT](http://ugarit-aligner.com/) - Alinhamento manual: trilíngue, exporta XML, pares de palavras em CSV, publicação imediata possível, correlaciona com léxico dinâmico por associação com as outras línguas alinhadas no servidor. 
+* [UGARIT](https://ugarit.ialigner.com/) - Alinhador automático: bilíngue,correção manual
+* [Novo ALPHEIOS](https://alignment.alpheios.net/) - Alinhamento manual: multilíngue, exporta JSON, HTML e pares em CSV; edita notas e palavras
+* [ALPHEIOS na PERSEIDS](https://www.perseids.org/perseids-platform) - Alinhamento manual: bilíngue, exporta XML, XHTML, tem workflow de curadoria pelo BOARD. 
