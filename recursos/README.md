@@ -29,3 +29,20 @@
 * [UGARIT](https://ugarit.ialigner.com/) - Alinhador automático: bilíngue,correção manual
 * [Novo ALPHEIOS](https://alignment.alpheios.net/) - Alinhamento manual: multilíngue, exporta JSON, HTML e pares em CSV; edita notas e palavras
 * [ALPHEIOS na PERSEIDS](https://www.perseids.org/perseids-platform) - Alinhamento manual: bilíngue, exporta XML, XHTML, tem workflow de curadoria pelo BOARD. 
+
+## Guidelines para alinhamento de tradução
+
+* [No UGARIT](https://ugarit.ialigner.com/guidelines.php) Para várias línguas incluindo grego-português
+* [Atual Gold standard para português](https://github.com/UgaritAlignment/Alignment-Gold-Standards/blob/main/grc-por/Convencoes-de-alinhamento-Grego-Portugues.pages.pdf)
+
+## Algumas fontes bibliográficas sobre traduções alinhadas
+
+* [Seleção do UGARIT](https://ugarit.ialigner.com/bib.php)
+  - Palladino, C. (2020)[Reading Texts in Digital Environments: Applications of Translation Alignment for Classical Language Learning](https://jitp.commons.gc.cuny.edu/reading-texts-in-digital-environments-applications-of-translation-alignment-for-classical-language-learning/)._**The Journal of Interactive Technology and Pedagogy**_, n.18,Dec.
+  - Yousef, T., Palladino, C., Wright, D., & Berti, M. (2022). [Automatic Translation Alignment for Ancient Greek and Latin](http://www.lrec-conf.org/proceedings/lrec2022/workshops/LT4HALA/pdf/2022.lt4hala2022-1.14.pdf). In _Proceedings of the Second Workshop on Language Technologies for Historical and Ancient Languages_ (pp. 101–107). European Language Resources Association.
+  - Yousef, T., Palladino, C., Shamsian, F., Ferreira, A., & Reis, M. (2022). [An automatic model and Gold Standard for translation alignment of Ancient Greek.](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.634.pdf) In _Proceedings of the Language Resources and Evaluation Conference_ (pp. 5894–5905). European Language Resources Association.
+  - Palladino, C., Foradi, M.,& Yousef, T. (2021). ["Translation Alignment for Historical Language Learning: a Case Study."](http://digitalhumanities.org/dhq/vol/15/3/000563/000563.html) _**DHQ: Digital Humanities Quarterly**_, 15(3).
+  - Yousef T., Palladino C., Shamsian F., & Foradi M. [Translation Alignment with Ugarit.](https://www.mdpi.com/2078-2489/13/2/65/pdf?version=1644549376) _Information_. 2022; 13(2):65. https://doi.org/10.3390/info13020065
+  - Eells, Elias D. (2021). [“Multilevel Alignment of Iliadic Texts”](https://www.proquest.com/openview/b492730369975b12b6adcde592d63f28/1?pq-origsite=gscholar&cbl=18750&diss=y) [Master’s thesis, Tufts University]
+  - Crane, G. (2019). [Beyond Translation: Language Hacking and Philology.](https://pdfs.semanticscholar.org/70a5/4d5cd9e04628014dfaaab835f3ed8dc1629d.pdf?_ga=2.202622228.420749001.1635720228-1968395570.1622936487) _**Harvard Data Science Review**_, 1(2).
+
