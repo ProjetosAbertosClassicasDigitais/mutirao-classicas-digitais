@@ -43,6 +43,6 @@ Email para contato: classicas.digitais@gmail.com
 * Daniel Falkemback Ribeiro, prof. dr., Universidade Federal do Paraná, UFPR
 * Bernardo César Diniz Athayde Vasconcelos, doutorando em Filosofia, Universidade Federal de Minas Gerais, UFMG
 * Thaís Viríssimo, profª m., Universidade Federal do Rio de Janeiro, UFRJ
-* Luís Alberto Goulart Firmino, mestrando em Letras Clássicas, Universidade de São Paulo, SP. 
+* Luís Alberto Goulart Firmino, mestrando em Letras Clássicas, Universidade de São Paulo, USP. 
 
 
