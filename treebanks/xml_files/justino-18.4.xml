@@ -392,7 +392,7 @@
       <word id="6" form="noctem" lemma="nox" postag="n-s---fa-" relation="ADV" head="4"/>
       <word id="7" form="praeparata" lemma="praeparo" postag="v-prppnn-" relation="ATR" head="8"/>
       <word id="8" form="agmina" lemma="agmen" postag="n-p---nn-" relation="SBJ" head="1"/>
-      <word id="9" form="," lemma="punc1" postag="u--------" relation="AuxX" head="18"/>
+      <word id="9" form="," lemma="punc1" postag="u--------" relation="AuxX" head="23"/>
       <word id="10" form="atque" lemma="atque" postag="c--------" relation="COORD" head="0"/>
       <word id="11" form="ita" lemma="ita" postag="d--------" relation="AuxY" head="23"/>
       <word id="12" form="sacris" lemma="sacer" postag="a-p---nb-" relation="SBJ" head="20"/>
@@ -402,7 +402,7 @@
       <word id="16" form="sacerdos" lemma="sacerdos1" postag="n-s---mn-" relation="PNOM" head="18"/>
       <word id="17" form="Acherbas" lemma="Acherbas" postag="n-s---mn-" relation="SBJ" head="18"/>
       <word id="18" form="fuerat" lemma="sum1" postag="v3slia---" relation="ATR" head="13"/>
-      <word id="19" form="," lemma="punc1" postag="u--------" relation="AuxX" head="23"/>
+      <word id="19" form="," lemma="punc1" postag="u--------" relation="AuxX" head="18"/>
       <word id="20" form="repetitis" lemma="repeto" postag="v-prppnb-" relation="ADV" head="23"/>
       <word id="21" form="exilio" lemma="exsilium" postag="n-s---nb-" relation="ADV" head="23"/>
       <word id="22" form="sedes" lemma="sedes" postag="n-p---fa-" relation="OBJ" head="23"/>
