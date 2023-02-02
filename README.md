@@ -41,7 +41,7 @@ Email para contato: classicas.digitais@gmail.com
 * Thaís Viríssimo,profª m., Participante,  UFRJ
 
 
-### Participantes inscritos inicialmente com colaboração parcial ou temporária
+### Inscritos inicialmente com colaboração restrita ou temporária
 
 * Daniel Falkemback Ribeiro, prof. dr., Universidade Federal do Paraná, UFPR
 * Bernardo César Diniz Athayde Vasconcelos, doutorando em Filosofia, Universidade Federal de Minas Gerais, UFMG
