@@ -20,7 +20,7 @@ ou em sites a serem formados.
 Email para contato: classicas.digitais@gmail.com 
 * [Ver pasta de recursos](https://github.com/ProjetosAbertosClassicasDigitais/mutirao-classicas-digitais/tree/main/recursos)
 
-### Equipe UNESP/FCLAr
+### Equipe UNESP/FCLAr 
 
 * Anise D'Orange Ferreira, profª drª Coord. PR. 
 * M. Celeste C. Dezotti,  profª drª Pesq.Colab. Participante
@@ -29,6 +29,10 @@ Email para contato: classicas.digitais@gmail.com
 * Murilo G. Alves, mestrando colab. (área de grego)
 * Anderson Alves Moris, graduando colab. (área de grego)
 * David V.Feltz, graduando colab. (área de grego)
+* Aline Trabuco Delgado, graduanda colab (área de grego)
+
+### Participante externa
+* Jéssica Frutuoso Mello, profª m., Unifal-MG, doutoranda em Estudos Literários, Universidade Federal de Juiz de Fora, UFJF (egressa do Mestrado em Estudos Literários UNESP/AR (área de latim)
 
 ### Equipe externa associada
 
@@ -37,12 +41,9 @@ Email para contato: classicas.digitais@gmail.com
 * Thaís Viríssimo,profª m., Participante,  UFRJ
 
 
-### Participantes inscritos
+### Inscritos externos com participação restrita inicial
 
-* Jéssica Frutuoso Mello, profª m., Unifal-MG, doutoranda em Estudos Literários, Universidade Federal de Juiz de Fora, UFJF
-* Daniel Falkemback Ribeiro, prof. dr., Universidade Federal do Paraná, UFPR
+* Daniel Falkemback Ribeiro, prof. dr., Universidade Federal da Bahia, UFBA 
 * Bernardo César Diniz Athayde Vasconcelos, doutorando em Filosofia, Universidade Federal de Minas Gerais, UFMG
-* Thaís Viríssimo, profª m., Universidade Federal do Rio de Janeiro, UFRJ
-* Luís Alberto Goulart Firmino, mestrando em Letras Clássicas, Universidade de São Paulo, USP. 
-
+* Luís Alberto Goulart Firmino, mestrando em Letras Clássicas, Universidade de São Paulo, USP.
 
