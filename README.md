@@ -30,6 +30,10 @@ Email para contato: classicas.digitais@gmail.com
 * Anderson Alves Moris, graduando colab. (área de grego)
 * David V.Feltz, graduando colab. (área de grego)
 
+### Participante externa
+
+* Jéssica Frutuoso Mello, profª m., Unifal-MG, doutoranda em Estudos Literários, Universidade Federal de Juiz de Fora, UFJF; egressa do mestrado do Programa em Estudos Literários da UNESP/Ar. 
+
 ### Equipe externa associada
 
 * Simone de Oliveira, profª drª, Participante, UFRJ
@@ -37,12 +41,10 @@ Email para contato: classicas.digitais@gmail.com
 * Thaís Viríssimo,profª m., Participante,  UFRJ
 
 
-### Participantes inscritos
+### Participantes inscritos inicialmente com colaboração estrita
 
-* Jéssica Frutuoso Mello, profª m., Unifal-MG, doutoranda em Estudos Literários, Universidade Federal de Juiz de Fora, UFJF
 * Daniel Falkemback Ribeiro, prof. dr., Universidade Federal do Paraná, UFPR
 * Bernardo César Diniz Athayde Vasconcelos, doutorando em Filosofia, Universidade Federal de Minas Gerais, UFMG
-* Thaís Viríssimo, profª m., Universidade Federal do Rio de Janeiro, UFRJ
 * Luís Alberto Goulart Firmino, mestrando em Letras Clássicas, Universidade de São Paulo, USP. 
 
 
