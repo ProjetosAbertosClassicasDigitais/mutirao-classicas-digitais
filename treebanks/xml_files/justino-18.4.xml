@@ -223,7 +223,7 @@
       <word id="11" form="velle" lemma="volo1" postag="v--pna---" relation="OBJ" head="6"/>
       <word id="12" form="," lemma="punc1" postag="u--------" relation="AuxX" head="25"/>
       <word id="13" form="ne" lemma="ne1" postag="c--------" relation="AuxC" head="25"/>
-      <word id="14" form="amplius" lemma="amplius" postag="d-------c" relation="ADV" head="23"/>
+      <word id="14" form="amplius" lemma="ample" postag="d-------c" relation="ADV" head="23"/>
       <word id="15" form="ei" lemma="is" postag="p-s---fd-" relation="ADV" head="23"/>
       <word id="16" form="mariti" lemma="maritus" postag="n-s---mg-" relation="ATR" head="17"/>
       <word id="17" form="domus" lemma="domus" postag="n-s---fn-" relation="SBJ" head="23"/>
@@ -246,7 +246,7 @@
    </sentence>
    <sentence id="11" document_id="Just." subdoc="18.4.11" span="">
       <word id="1" form="Non" lemma="non" postag="d--------" relation="AuxZ" head="2"/>
-      <word id="2" form="invitus" lemma="invitus" postag="a-s---mn-" relation="ATV" head="3"/>
+      <word id="2" form="invitus" lemma="invitus" postag="a-s---mn-" relation="ADV" head="6"/>
       <word id="3" form="Pygmalion" lemma="Pygmalion" postag="n-s---mn-" relation="SBJ" head="6"/>
       <word id="4" form="verba" lemma="verbum" postag="n-p---na-" relation="OBJ" head="6"/>
       <word id="5" form="sororis" lemma="soror" postag="n-s---fg-" relation="ATR" head="4"/>
@@ -376,7 +376,7 @@
       <word id="1" form="Hoc" lemma="hic" postag="p-s---mb-" relation="ATR" head="2"/>
       <word id="2" form="metu" lemma="metus" postag="n-s---mb-" relation="SBJ" head="4"/>
       <word id="3" form="omnibus" lemma="omnis" postag="a-p---md-" relation="OBJ" head="4"/>
-      <word id="4" form="iniecto" lemma="injecto" postag="v-srppmb_" relation="ADV" head="7"/>
+      <word id="4" form="iniecto" lemma="inicio" postag="v-srppmb_" relation="ADV" head="7"/>
       <word id="5" form="comites" lemma="comes" postag="n-p---ma-" relation="OBJ" head="7"/>
       <word id="6" form="fugae" lemma="fuga" postag="n-s---fg-" relation="ATR" head="5"/>
       <word id="7" form="accepit" lemma="accipio" postag="v3sria---" relation="PRED" head="0"/>
