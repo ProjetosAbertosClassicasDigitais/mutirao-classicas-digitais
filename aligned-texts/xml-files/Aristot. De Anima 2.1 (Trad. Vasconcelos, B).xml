@@ -1,0 +1,2662 @@
+<aligned-text>
+	<language lnum="L1" xml:lang="GRC"/>
+	<language lnum="L2" xml:lang="POR"/>
+	<sentence n="1">
+		<wds lnum="L1">
+			<w n='1-1'>
+				<text>Τὰ</text>
+				<refs nrefs='2-3 2-4'></refs>
+			</w>
+			<w n='1-2'>
+				<text>μὲν</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-3'>
+				<text>δὴ</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-4'>
+				<text>ὑπὸ</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-5'>
+				<text>τῶν</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-6'>
+				<text>πρότερον</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-7'>
+				<text>παραδεδομένα</text>
+				<refs nrefs='2-10 2-11 2-7 2-8'></refs>
+			</w>
+			<w n='1-8'>
+				<text>περὶ</text>
+				<refs nrefs='2-12'></refs>
+			</w>
+			<w n='1-9'>
+				<text>ψυχῆς</text>
+				<refs nrefs='2-14'></refs>
+			</w>
+			<w n='1-10'>
+				<text>[</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-11'>
+				<text>*</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-12'>
+				<text>]</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-13'>
+				<text>εἰρήσθω</text>
+				<refs nrefs='2-5'></refs>
+			</w>
+			<w n='1-14'>
+				<text>·</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-15'>
+				<text>πάλιν</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-16'>
+				<text>δʼ</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-17'>
+				<text>ὥσπερ</text>
+				<refs nrefs='2-19 2-20'></refs>
+			</w>
+			<w n='1-18'>
+				<text>ἐξ</text>
+				<refs nrefs='2-19 2-20'></refs>
+			</w>
+			<w n='1-19'>
+				<text>ὑπαρχῆς</text>
+				<refs nrefs='2-21 2-22'></refs>
+			</w>
+			<w n='1-20'>
+				<text>ἐπανίωμεν</text>
+				<refs nrefs='2-16'></refs>
+			</w>
+			<w n='1-21'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-22'>
+				<text>πειρώμενοι</text>
+				<refs nrefs='2-24'></refs>
+			</w>
+			<w n='1-23'>
+				<text>διορίσαι</text>
+				<refs nrefs='2-25'></refs>
+			</w>
+			<w n='1-24'>
+				<text>τί</text>
+				<refs nrefs='2-26 2-27'></refs>
+			</w>
+			<w n='1-25'>
+				<text>ἐστι</text>
+				<refs nrefs='2-28'></refs>
+			</w>
+			<w n='1-26'>
+				<text>ψυχὴ</text>
+				<refs nrefs='2-30'></refs>
+			</w>
+			<w n='1-27'>
+				<text>καὶ</text>
+				<refs nrefs='2-31'></refs>
+			</w>
+			<w n='1-28'>
+				<text>τίς</text>
+				<refs nrefs='2-32'></refs>
+			</w>
+			<w n='1-29'>
+				<text>ἂν</text>
+				<refs nrefs='2-33'></refs>
+			</w>
+			<w n='1-30'>
+				<text>εἴη</text>
+				<refs nrefs='2-33'></refs>
+			</w>
+			<w n='1-31'>
+				<text>κοινότατος</text>
+				<refs nrefs='2-37 2-38'></refs>
+			</w>
+			<w n='1-32'>
+				<text>λόγος</text>
+				<refs nrefs='2-36'></refs>
+			</w>
+			<w n='1-33'>
+				<text>αὐτῆς</text>
+				<refs nrefs='2-35'></refs>
+			</w>
+			<w n='1-34'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-35'>
+				<text>λέγομεν</text>
+				<refs nrefs='2-41'></refs>
+			</w>
+			<w n='1-36'>
+				<text>δὴ</text>
+				<refs nrefs='2-43 2-44'></refs>
+			</w>
+			<w n='1-37'>
+				<text>γένος</text>
+				<refs nrefs='2-51'></refs>
+			</w>
+			<w n='1-38'>
+				<text>ἕν</text>
+				<refs nrefs='2-49'></refs>
+			</w>
+			<w n='1-39'>
+				<text>τι</text>
+				<refs nrefs='2-50'></refs>
+			</w>
+			<w n='1-40'>
+				<text>τῶν</text>
+				<refs nrefs='2-52 2-53'></refs>
+			</w>
+			<w n='1-41'>
+				<text>ὄντων</text>
+				<refs nrefs='2-54'></refs>
+			</w>
+			<w n='1-42'>
+				<text>τὴν</text>
+				<refs nrefs='2-47'></refs>
+			</w>
+			<w n='1-43'>
+				<text>οὐσίαν</text>
+				<refs nrefs='2-48'></refs>
+			</w>
+			<w n='1-44'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-45'>
+				<text>ταύτης</text>
+				<refs nrefs='2-57'></refs>
+			</w>
+			<w n='1-46'>
+				<text>δὲ</text>
+				<refs nrefs='2-56'></refs>
+			</w>
+			<w n='1-47'>
+				<text>τὸ</text>
+				<refs nrefs='2-60'></refs>
+			</w>
+			<w n='1-48'>
+				<text>μὲν</text>
+				<refs nrefs='2-60'></refs>
+			</w>
+			<w n='1-49'>
+				<text>ὡς</text>
+				<refs nrefs='2-61'></refs>
+			</w>
+			<w n='1-50'>
+				<text>ὕλην</text>
+				<refs nrefs='2-62'></refs>
+			</w>
+			<w n='1-51'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-52'>
+				<text>ὃ</text>
+				<refs nrefs='2-64'></refs>
+			</w>
+			<w n='1-53'>
+				<text>καθ’</text>
+				<refs nrefs='2-65'></refs>
+			</w>
+			<w n='1-54'>
+				<text>αὑτὸ</text>
+				<refs nrefs='2-66'></refs>
+			</w>
+			<w n='1-55'>
+				<text>οὐκ</text>
+				<refs nrefs='2-67'></refs>
+			</w>
+			<w n='1-56'>
+				<text>ἔστι</text>
+				<refs nrefs='2-68'></refs>
+			</w>
+			<w n='1-57'>
+				<text>τόδε</text>
+				<refs nrefs='2-70'></refs>
+			</w>
+			<w n='1-58'>
+				<text>τι</text>
+				<refs nrefs='2-69'></refs>
+			</w>
+			<w n='1-59'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-60'>
+				<text>ἕτερον</text>
+				<refs nrefs='2-72 2-73'></refs>
+			</w>
+			<w n='1-61'>
+				<text>δὲ</text>
+				<refs nrefs='2-72 2-73'></refs>
+			</w>
+			<w n='1-62'>
+				<text>μορφὴν</text>
+				<refs nrefs='2-75'></refs>
+			</w>
+			<w n='1-63'>
+				<text>καὶ</text>
+				<refs nrefs='2-76'></refs>
+			</w>
+			<w n='1-64'>
+				<text>εἶδος</text>
+				<refs nrefs='2-77'></refs>
+			</w>
+			<w n='1-65'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-66'>
+				<text>καθʼ</text>
+				<refs nrefs='2-79'></refs>
+			</w>
+			<w n='1-67'>
+				<text>ἣν</text>
+				<refs nrefs='2-80 2-81'></refs>
+			</w>
+			<w n='1-68'>
+				<text>ἤδη</text>
+				<refs nrefs='2-82'></refs>
+			</w>
+			<w n='1-69'>
+				<text>λέγεται</text>
+				<refs nrefs='2-83 2-84'></refs>
+			</w>
+			<w n='1-70'>
+				<text>τόδε</text>
+				<refs nrefs='2-86'></refs>
+			</w>
+			<w n='1-71'>
+				<text>τι</text>
+				<refs nrefs='2-85'></refs>
+			</w>
+			<w n='1-72'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-73'>
+				<text>καὶ</text>
+				<refs nrefs='2-88'></refs>
+			</w>
+			<w n='1-74'>
+				<text>τρίτον</text>
+				<refs nrefs='2-90 2-91'></refs>
+			</w>
+			<w n='1-75'>
+				<text>τὸ</text>
+				<refs nrefs='2-93 2-94'></refs>
+			</w>
+			<w n='1-76'>
+				<text>ἐκ</text>
+				<refs nrefs='2-97'></refs>
+			</w>
+			<w n='1-77'>
+				<text>τούτων</text>
+				<refs nrefs='2-98'></refs>
+			</w>
+			<w n='1-78'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-79'>
+				<text>ἔστι</text>
+				<refs nrefs='2-102'></refs>
+			</w>
+			<w n='1-80'>
+				<text>δʼ</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-81'>
+				<text>ἡ</text>
+				<refs nrefs='2-100'></refs>
+			</w>
+			<w n='1-82'>
+				<text>μὲν</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-83'>
+				<text>ὕλη</text>
+				<refs nrefs='2-101'></refs>
+			</w>
+			<w n='1-84'>
+				<text>δύναμις</text>
+				<refs nrefs='2-103'></refs>
+			</w>
+			<w n='1-85'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-86'>
+				<text>τὸ</text>
+				<refs nrefs='2-105'></refs>
+			</w>
+			<w n='1-87'>
+				<text>δʼ</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-88'>
+				<text>εἶδος</text>
+				<refs nrefs='2-106'></refs>
+			</w>
+			<w n='1-89'>
+				<text>ἐντελέχεια</text>
+				<refs nrefs='2-108'></refs>
+			</w>
+			<w n='1-90'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-91'>
+				<text>καὶ</text>
+				<refs nrefs='2-109'></refs>
+			</w>
+			<w n='1-92'>
+				<text>τοῦτο</text>
+				<refs nrefs='2-110'></refs>
+			</w>
+			<w n='1-93'>
+				<text>διχῶς</text>
+				<refs nrefs='2-111'></refs>
+			</w>
+			<w n='1-94'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-95'>
+				<text>τὸ</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-96'>
+				<text>μὲν</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-97'>
+				<text>ὡς</text>
+				<refs nrefs='2-113'></refs>
+			</w>
+			<w n='1-98'>
+				<text>ἐπιστήμη</text>
+				<refs nrefs='2-114'></refs>
+			</w>
+			<w n='1-99'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-100'>
+				<text>τὸ</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-101'>
+				<text>δʼ</text>
+				<refs nrefs='2-115'></refs>
+			</w>
+			<w n='1-102'>
+				<text>ὡς</text>
+				<refs nrefs='2-116'></refs>
+			</w>
+			<w n='1-103'>
+				<text>τὸ</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-104'>
+				<text>θεωρεῖν</text>
+				<refs nrefs='2-117'></refs>
+			</w>
+			<w n='1-105'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-106'>
+				<text>οὐσίαι</text>
+				<refs nrefs='2-120'></refs>
+			</w>
+			<w n='1-107'>
+				<text>δὲ</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-108'>
+				<text>μάλιστʼ</text>
+				<refs nrefs='2-124 2-125 2-126 2-127'></refs>
+			</w>
+			<w n='1-109'>
+				<text>εἶναι</text>
+				<refs nrefs='2-122'></refs>
+			</w>
+			<w n='1-110'>
+				<text>δοκοῦσι</text>
+				<refs nrefs='2-121'></refs>
+			</w>
+			<w n='1-111'>
+				<text>τὰ</text>
+				<refs nrefs='2-129'></refs>
+			</w>
+			<w n='1-112'>
+				<text>σώματα</text>
+				<refs nrefs='2-130'></refs>
+			</w>
+			<w n='1-113'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-114'>
+				<text>καὶ</text>
+				<refs nrefs='2-132'></refs>
+			</w>
+			<w n='1-115'>
+				<text>τούτων</text>
+				<refs nrefs='2-133'></refs>
+			</w>
+			<w n='1-116'>
+				<text>τὰ</text>
+				<refs nrefs='2-135'></refs>
+			</w>
+			<w n='1-117'>
+				<text>φυσικά</text>
+				<refs nrefs='2-136'></refs>
+			</w>
+			<w n='1-118'>
+				<text>·</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-119'>
+				<text>ταῦτα</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-120'>
+				<text>γὰρ</text>
+				<refs nrefs='2-138 2-139'></refs>
+			</w>
+			<w n='1-121'>
+				<text>τῶν</text>
+				<refs nrefs='2-142'></refs>
+			</w>
+			<w n='1-122'>
+				<text>ἄλλων</text>
+				<refs nrefs='2-143'></refs>
+			</w>
+			<w n='1-123'>
+				<text>ἀρχαί</text>
+				<refs nrefs='2-141'></refs>
+			</w>
+			<w n='1-124'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-125'>
+				<text>τῶν</text>
+				<refs nrefs='2-145 2-146'></refs>
+			</w>
+			<w n='1-126'>
+				<text>δὲ</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-127'>
+				<text>φυσικῶν</text>
+				<refs nrefs='2-148'></refs>
+			</w>
+			<w n='1-128'>
+				<text>τὰ</text>
+				<refs nrefs='2-150'></refs>
+			</w>
+			<w n='1-129'>
+				<text>μὲν</text>
+				<refs nrefs='2-150'></refs>
+			</w>
+			<w n='1-130'>
+				<text>ἔχει</text>
+				<refs nrefs='2-151'></refs>
+			</w>
+			<w n='1-131'>
+				<text>ζωήν</text>
+				<refs nrefs='2-152'></refs>
+			</w>
+			<w n='1-132'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-133'>
+				<text>τὰ</text>
+				<refs nrefs='2-153 2-154'></refs>
+			</w>
+			<w n='1-134'>
+				<text>δʼ</text>
+				<refs nrefs='2-153 2-154'></refs>
+			</w>
+			<w n='1-135'>
+				<text>οὐκ</text>
+				<refs nrefs='2-155'></refs>
+			</w>
+			<w n='1-136'>
+				<text>ἔχει</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-137'>
+				<text>·</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-138'>
+				<text>ζωὴν</text>
+				<refs nrefs='2-157'></refs>
+			</w>
+			<w n='1-139'>
+				<text>δὲ</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-140'>
+				<text>λέγομεν</text>
+				<refs nrefs='2-158'></refs>
+			</w>
+			<w n='1-141'>
+				<text>τὴν</text>
+				<refs nrefs='2-160'></refs>
+			</w>
+			<w n='1-142'>
+				<text>διʼ</text>
+				<refs nrefs='2-161'></refs>
+			</w>
+			<w n='1-143'>
+				<text>αὑτοῦ</text>
+				<refs nrefs='2-162 2-163'></refs>
+			</w>
+			<w n='1-144'>
+				<text>τροφήν</text>
+				<refs nrefs='2-164 2-165'></refs>
+			</w>
+			<w n='1-145'>
+				<text>τε</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-146'>
+				<text>καὶ</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-147'>
+				<text>αὔξησιν</text>
+				<refs nrefs='2-167'></refs>
+			</w>
+			<w n='1-148'>
+				<text>καὶ</text>
+				<refs nrefs='2-168'></refs>
+			</w>
+			<w n='1-149'>
+				<text>φθίσιν</text>
+				<refs nrefs='2-169'></refs>
+			</w>
+			<w n='1-150'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-151'>
+				<text>ὥστε</text>
+				<refs nrefs='2-171 2-172 2-173'></refs>
+			</w>
+			<w n='1-152'>
+				<text>πᾶν</text>
+				<refs nrefs='2-174'></refs>
+			</w>
+			<w n='1-153'>
+				<text>σῶμα</text>
+				<refs nrefs='2-175'></refs>
+			</w>
+			<w n='1-154'>
+				<text>φυσικὸν</text>
+				<refs nrefs='2-176'></refs>
+			</w>
+			<w n='1-155'>
+				<text>μετέχον</text>
+				<refs nrefs='2-177 2-178'></refs>
+			</w>
+			<w n='1-156'>
+				<text>ζωῆς</text>
+				<refs nrefs='2-179 2-180'></refs>
+			</w>
+			<w n='1-157'>
+				<text>οὐσία</text>
+				<refs nrefs='2-182'></refs>
+			</w>
+			<w n='1-158'>
+				<text>ἂν</text>
+				<refs nrefs='2-181'></refs>
+			</w>
+			<w n='1-159'>
+				<text>εἴη</text>
+				<refs nrefs='2-181'></refs>
+			</w>
+			<w n='1-160'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-161'>
+				<text>οὐσία</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-162'>
+				<text>δʼ</text>
+				<refs nrefs='2-184'></refs>
+			</w>
+			<w n='1-163'>
+				<text>οὕτως</text>
+				<refs nrefs='2-185'></refs>
+			</w>
+			<w n='1-164'>
+				<text>ὡς</text>
+				<refs nrefs='2-186'></refs>
+			</w>
+			<w n='1-165'>
+				<text>συνθέτη</text>
+				<refs nrefs='2-187'></refs>
+			</w>
+			<w n='1-166'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-167'>
+				<text>ἐπεὶ</text>
+				<refs nrefs='2-190 2-191 2-192 2-193'></refs>
+			</w>
+			<w n='1-168'>
+				<text>δʼ</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-169'>
+				<text>ἐστὶ</text>
+				<refs nrefs='2-194'></refs>
+			</w>
+			<w n='1-170'>
+				<text>καὶ</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-171'>
+				<text>σῶμα</text>
+				<refs nrefs='2-195 2-196'></refs>
+			</w>
+			<w n='1-172'>
+				<text>τοιόνδε</text>
+				<refs nrefs='2-197 2-198'></refs>
+			</w>
+			<w n='1-173'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-174'>
+				<text>ζωὴν</text>
+				<refs nrefs='2-204'></refs>
+			</w>
+			<w n='1-175'>
+				<text>γὰρ</text>
+				<refs nrefs='2-200 2-201'></refs>
+			</w>
+			<w n='1-176'>
+				<text>ἔχον</text>
+				<refs nrefs='2-202 2-203'></refs>
+			</w>
+			<w n='1-177'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-178'>
+				<text>οὐκ</text>
+				<refs nrefs='2-208'></refs>
+			</w>
+			<w n='1-179'>
+				<text>ἂν</text>
+				<refs nrefs='2-209 2-210'></refs>
+			</w>
+			<w n='1-180'>
+				<text>εἴη</text>
+				<refs nrefs='2-209 2-210'></refs>
+			</w>
+			<w n='1-181'>
+				<text>σῶμα</text>
+				<refs nrefs='2-211'></refs>
+			</w>
+			<w n='1-182'>
+				<text>ἡ</text>
+				<refs nrefs='2-206'></refs>
+			</w>
+			<w n='1-183'>
+				<text>ψυχή</text>
+				<refs nrefs='2-207'></refs>
+			</w>
+			<w n='1-184'>
+				<text>·</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-185'>
+				<text>οὐ</text>
+				<refs nrefs='2-216'></refs>
+			</w>
+			<w n='1-186'>
+				<text>γάρ</text>
+				<refs nrefs='2-213'></refs>
+			</w>
+			<w n='1-187'>
+				<text>ἐστι</text>
+				<refs nrefs='2-217'></refs>
+			</w>
+			<w n='1-188'>
+				<text>τῶν</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-189'>
+				<text>καθʼ</text>
+				<refs nrefs='2-218'></refs>
+			</w>
+			<w n='1-190'>
+				<text>ὑποκειμένου</text>
+				<refs nrefs='2-219 2-220'></refs>
+			</w>
+			<w n='1-191'>
+				<text>τὸ</text>
+				<refs nrefs='2-214'></refs>
+			</w>
+			<w n='1-192'>
+				<text>σῶμα</text>
+				<refs nrefs='2-215'></refs>
+			</w>
+			<w n='1-193'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-194'>
+				<text>μᾶλλον</text>
+				<refs nrefs='2-229'></refs>
+			</w>
+			<w n='1-195'>
+				<text>δʼ</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-196'>
+				<text>ὡς</text>
+				<refs nrefs='2-230'></refs>
+			</w>
+			<w n='1-197'>
+				<text>ὑποκείμενον</text>
+				<refs nrefs='2-231'></refs>
+			</w>
+			<w n='1-198'>
+				<text>καὶ</text>
+				<refs nrefs='2-232'></refs>
+			</w>
+			<w n='1-199'>
+				<text>ὕλη</text>
+				<refs nrefs='2-233'></refs>
+			</w>
+			<w n='1-200'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-201'>
+				<text>ἀναγκαῖον</text>
+				<refs nrefs='2-236'></refs>
+			</w>
+			<w n='1-202'>
+				<text>ἄρα</text>
+				<refs nrefs='2-238'></refs>
+			</w>
+			<w n='1-203'>
+				<text>τὴν</text>
+				<refs nrefs='2-241'></refs>
+			</w>
+			<w n='1-204'>
+				<text>ψυχὴν</text>
+				<refs nrefs='2-242'></refs>
+			</w>
+			<w n='1-205'>
+				<text>οὐσίαν</text>
+				<refs nrefs='2-244'></refs>
+			</w>
+			<w n='1-206'>
+				<text>εἶναι</text>
+				<refs nrefs='2-243'></refs>
+			</w>
+			<w n='1-207'>
+				<text>ὡς</text>
+				<refs nrefs='2-245'></refs>
+			</w>
+			<w n='1-208'>
+				<text>εἶδος</text>
+				<refs nrefs='2-246'></refs>
+			</w>
+			<w n='1-209'>
+				<text>σώματος</text>
+				<refs nrefs='2-247 2-248 2-249'></refs>
+			</w>
+			<w n='1-210'>
+				<text>φυσικοῦ</text>
+				<refs nrefs='2-250'></refs>
+			</w>
+			<w n='1-211'>
+				<text>δυνάμει</text>
+				<refs nrefs='2-254 2-255'></refs>
+			</w>
+			<w n='1-212'>
+				<text>ζωὴν</text>
+				<refs nrefs='2-253'></refs>
+			</w>
+			<w n='1-213'>
+				<text>ἔχοντος</text>
+				<refs nrefs='2-251 2-252'></refs>
+			</w>
+			<w n='1-214'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-215'>
+				<text>ἡ</text>
+				<refs nrefs='2-258'></refs>
+			</w>
+			<w n='1-216'>
+				<text>δʼ</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-217'>
+				<text>οὐσία</text>
+				<refs nrefs='2-259'></refs>
+			</w>
+			<w n='1-218'>
+				<text>ἐντελέχεια</text>
+				<refs nrefs='2-265'></refs>
+			</w>
+			<w n='1-219'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-220'>
+				<text>τοιούτου</text>
+				<refs nrefs='2-275'></refs>
+			</w>
+			<w n='1-221'>
+				<text>ἄρα</text>
+				<refs nrefs='2-270'></refs>
+			</w>
+			<w n='1-222'>
+				<text>σώματος</text>
+				<refs nrefs='2-272 2-273 2-274'></refs>
+			</w>
+			<w n='1-223'>
+				<text>ἐντελέχεια</text>
+				<refs nrefs='2-268'></refs>
+			</w>
+			<w n='1-224'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-225'>
+				<text>αὕτη</text>
+				<refs nrefs='2-277'></refs>
+			</w>
+			<w n='1-226'>
+				<text>δὲ</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-227'>
+				<text>λέγεται</text>
+				<refs nrefs='2-278 2-279'></refs>
+			</w>
+			<w n='1-228'>
+				<text>διχῶς</text>
+				<refs nrefs='2-280 2-281 2-282'></refs>
+			</w>
+			<w n='1-229'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-230'>
+				<text>ἡ</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-231'>
+				<text>μὲν</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-232'>
+				<text>ὡς</text>
+				<refs nrefs='2-284'></refs>
+			</w>
+			<w n='1-233'>
+				<text>ἐπιστήμη</text>
+				<refs nrefs='2-285'></refs>
+			</w>
+			<w n='1-234'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-235'>
+				<text>ἡ</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-236'>
+				<text>δʼ</text>
+				<refs nrefs='2-286'></refs>
+			</w>
+			<w n='1-237'>
+				<text>ὡς</text>
+				<refs nrefs='2-287'></refs>
+			</w>
+			<w n='1-238'>
+				<text>τὸ</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-239'>
+				<text>θεωρεῖν</text>
+				<refs nrefs='2-288'></refs>
+			</w>
+			<w n='1-240'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-241'>
+				<text>φανερὸν</text>
+				<refs nrefs='2-291'></refs>
+			</w>
+			<w n='1-242'>
+				<text>οὖν</text>
+				<refs nrefs='2-293'></refs>
+			</w>
+			<w n='1-243'>
+				<text>ὅτι</text>
+				<refs nrefs='2-295'></refs>
+			</w>
+			<w n='1-244'>
+				<text>ὡς</text>
+				<refs nrefs='2-298'></refs>
+			</w>
+			<w n='1-245'>
+				<text>ἐπιστήμη</text>
+				<refs nrefs='2-300'></refs>
+			</w>
+			<w n='1-246'>
+				<text>·</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-247'>
+				<text>ἐν</text>
+				<refs nrefs='2-303 2-304 2-305'></refs>
+			</w>
+			<w n='1-248'>
+				<text>γὰρ</text>
+				<refs nrefs='2-302'></refs>
+			</w>
+			<w n='1-249'>
+				<text>τῷ</text>
+				<refs nrefs='2-303 2-304 2-305'></refs>
+			</w>
+			<w n='1-250'>
+				<text>ὑπάρχειν</text>
+				<refs nrefs='2-306'></refs>
+			</w>
+			<w n='1-251'>
+				<text>τὴν</text>
+				<refs nrefs='2-307'></refs>
+			</w>
+			<w n='1-252'>
+				<text>ψυχὴν</text>
+				<refs nrefs='2-308'></refs>
+			</w>
+			<w n='1-253'>
+				<text>καὶ</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-254'>
+				<text>ὕπνος</text>
+				<refs nrefs='2-310'></refs>
+			</w>
+			<w n='1-255'>
+				<text>καὶ</text>
+				<refs nrefs='2-311'></refs>
+			</w>
+			<w n='1-256'>
+				<text>ἐγρήγορσίς</text>
+				<refs nrefs='2-312'></refs>
+			</w>
+			<w n='1-257'>
+				<text>ἐστιν</text>
+				<refs nrefs='2-309'></refs>
+			</w>
+			<w n='1-258'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-259'>
+				<text>ἀνάλογον</text>
+				<refs nrefs='2-318'></refs>
+			</w>
+			<w n='1-260'>
+				<text>δʼ</text>
+				<refs nrefs='2-314'></refs>
+			</w>
+			<w n='1-261'>
+				<text>ἡ</text>
+				<refs nrefs='2-315'></refs>
+			</w>
+			<w n='1-262'>
+				<text>μὲν</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-263'>
+				<text>ἐγρήγορσις</text>
+				<refs nrefs='2-316'></refs>
+			</w>
+			<w n='1-264'>
+				<text>τῷ</text>
+				<refs nrefs='2-319'></refs>
+			</w>
+			<w n='1-265'>
+				<text>θεωρεῖν</text>
+				<refs nrefs='2-320'></refs>
+			</w>
+			<w n='1-266'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-267'>
+				<text>ὁ</text>
+				<refs nrefs='2-322'></refs>
+			</w>
+			<w n='1-268'>
+				<text>δʼ</text>
+				<refs nrefs='2-321'></refs>
+			</w>
+			<w n='1-269'>
+				<text>ὕπνος</text>
+				<refs nrefs='2-323'></refs>
+			</w>
+			<w n='1-270'>
+				<text>τῷ</text>
+				<refs nrefs='2-324'></refs>
+			</w>
+			<w n='1-271'>
+				<text>ἔχειν</text>
+				<refs nrefs='2-325'></refs>
+			</w>
+			<w n='1-272'>
+				<text>καὶ</text>
+				<refs nrefs='2-326'></refs>
+			</w>
+			<w n='1-273'>
+				<text>μὴ</text>
+				<refs nrefs='2-327'></refs>
+			</w>
+			<w n='1-274'>
+				<text>ἐνεργεῖν</text>
+				<refs nrefs='2-328'></refs>
+			</w>
+			<w n='1-275'>
+				<text>·</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-276'>
+				<text>προτέρα</text>
+				<refs nrefs='2-334'></refs>
+			</w>
+			<w n='1-277'>
+				<text>δὲ</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-278'>
+				<text>τῇ</text>
+				<refs nrefs='2-335'></refs>
+			</w>
+			<w n='1-279'>
+				<text>γενέσει</text>
+				<refs nrefs='2-336'></refs>
+			</w>
+			<w n='1-280'>
+				<text>ἐπὶ</text>
+				<refs nrefs='2-337'></refs>
+			</w>
+			<w n='1-281'>
+				<text>τοῦ</text>
+				<refs nrefs='2-337'></refs>
+			</w>
+			<w n='1-282'>
+				<text>αὐτοῦ</text>
+				<refs nrefs='2-338'></refs>
+			</w>
+			<w n='1-283'>
+				<text>ἡ</text>
+				<refs nrefs='2-331'></refs>
+			</w>
+			<w n='1-284'>
+				<text>ἐπιστήμη</text>
+				<refs nrefs='2-332'></refs>
+			</w>
+			<w n='1-285'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-286'>
+				<text>διὸ</text>
+				<refs nrefs='2-340 2-341 2-342'></refs>
+			</w>
+			<w n='1-287'>
+				<text>ἡ</text>
+				<refs nrefs='2-343'></refs>
+			</w>
+			<w n='1-288'>
+				<text>ψυχή</text>
+				<refs nrefs='2-344'></refs>
+			</w>
+			<w n='1-289'>
+				<text>ἐστιν</text>
+				<refs nrefs='2-345'></refs>
+			</w>
+			<w n='1-290'>
+				<text>ἐντελέχεια</text>
+				<refs nrefs='2-348'></refs>
+			</w>
+			<w n='1-291'>
+				<text>ἡ</text>
+				<refs nrefs='2-346'></refs>
+			</w>
+			<w n='1-292'>
+				<text>πρώτη</text>
+				<refs nrefs='2-347'></refs>
+			</w>
+			<w n='1-293'>
+				<text>σώματος</text>
+				<refs nrefs='2-349 2-350 2-351'></refs>
+			</w>
+			<w n='1-294'>
+				<text>φυσικοῦ</text>
+				<refs nrefs='2-352'></refs>
+			</w>
+			<w n='1-295'>
+				<text>δυνάμει</text>
+				<refs nrefs='2-356 2-357'></refs>
+			</w>
+			<w n='1-296'>
+				<text>ζωὴν</text>
+				<refs nrefs='2-355'></refs>
+			</w>
+			<w n='1-297'>
+				<text>ἔχοντος</text>
+				<refs nrefs='2-353 2-354'></refs>
+			</w>
+			<w n='1-298'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-299'>
+				<text>τοιοῦτον</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-300'>
+				<text>δὲ</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-301'>
+				<text>ὃ</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-302'>
+				<text>ἄν</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-303'>
+				<text>ᾖ</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-304'>
+				<text>ὀργανικόν</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-305'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+		</wds>
+		<wds lnum="L2">
+			<w n='2-1'>
+				<text>Sejam</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-2'>
+				<text>essas</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-3'>
+				<text>as</text>
+				<refs nrefs='1-1'></refs>
+			</w>
+			<w n='2-4'>
+				<text>coisas</text>
+				<refs nrefs='1-1'></refs>
+			</w>
+			<w n='2-5'>
+				<text>ditas</text>
+				<refs nrefs='1-13'></refs>
+			</w>
+			<w n='2-6'>
+				<text>sobre</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-7'>
+				<text>o</text>
+				<refs nrefs='1-7'></refs>
+			</w>
+			<w n='2-8'>
+				<text>que</text>
+				<refs nrefs='1-7'></refs>
+			</w>
+			<w n='2-9'>
+				<text>nos</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-10'>
+				<text>foi</text>
+				<refs nrefs='1-7'></refs>
+			</w>
+			<w n='2-11'>
+				<text>legado</text>
+				<refs nrefs='1-7'></refs>
+			</w>
+			<w n='2-12'>
+				<text>sobre</text>
+				<refs nrefs='1-8'></refs>
+			</w>
+			<w n='2-13'>
+				<text>a</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-14'>
+				<text>alma</text>
+				<refs nrefs='1-9'></refs>
+			</w>
+			<w n='2-15'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-16'>
+				<text>Avancemos</text>
+				<refs nrefs='1-20'></refs>
+			</w>
+			<w n='2-17'>
+				<text>novamente</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-18'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-19'>
+				<text>como</text>
+				<refs nrefs='1-17 1-18'></refs>
+			</w>
+			<w n='2-20'>
+				<text>que</text>
+				<refs nrefs='1-17 1-18'></refs>
+			</w>
+			<w n='2-21'>
+				<text>do</text>
+				<refs nrefs='1-19'></refs>
+			</w>
+			<w n='2-22'>
+				<text>começo</text>
+				<refs nrefs='1-19'></refs>
+			</w>
+			<w n='2-23'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-24'>
+				<text>tentando</text>
+				<refs nrefs='1-22'></refs>
+			</w>
+			<w n='2-25'>
+				<text>delimitar</text>
+				<refs nrefs='1-23'></refs>
+			</w>
+			<w n='2-26'>
+				<text>o</text>
+				<refs nrefs='1-24'></refs>
+			</w>
+			<w n='2-27'>
+				<text>que</text>
+				<refs nrefs='1-24'></refs>
+			</w>
+			<w n='2-28'>
+				<text>é</text>
+				<refs nrefs='1-25'></refs>
+			</w>
+			<w n='2-29'>
+				<text>a</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-30'>
+				<text>alma</text>
+				<refs nrefs='1-26'></refs>
+			</w>
+			<w n='2-31'>
+				<text>e</text>
+				<refs nrefs='1-27'></refs>
+			</w>
+			<w n='2-32'>
+				<text>qual</text>
+				<refs nrefs='1-28'></refs>
+			</w>
+			<w n='2-33'>
+				<text>seria</text>
+				<refs nrefs='1-29 1-30'></refs>
+			</w>
+			<w n='2-34'>
+				<text>a</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-35'>
+				<text>sua</text>
+				<refs nrefs='1-33'></refs>
+			</w>
+			<w n='2-36'>
+				<text>formulação</text>
+				<refs nrefs='1-32'></refs>
+			</w>
+			<w n='2-37'>
+				<text>mais</text>
+				<refs nrefs='1-31'></refs>
+			</w>
+			<w n='2-38'>
+				<text>primária</text>
+				<refs nrefs='1-31'></refs>
+			</w>
+			<w n='2-39'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-40'>
+				<text>###</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-41'>
+				<text>Dizemos</text>
+				<refs nrefs='1-35'></refs>
+			</w>
+			<w n='2-42'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-43'>
+				<text>com</text>
+				<refs nrefs='1-36'></refs>
+			</w>
+			<w n='2-44'>
+				<text>efeito</text>
+				<refs nrefs='1-36'></refs>
+			</w>
+			<w n='2-45'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-46'>
+				<text>ser</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-47'>
+				<text>a</text>
+				<refs nrefs='1-42'></refs>
+			</w>
+			<w n='2-48'>
+				<text>substância</text>
+				<refs nrefs='1-43'></refs>
+			</w>
+			<w n='2-49'>
+				<text>um</text>
+				<refs nrefs='1-38'></refs>
+			</w>
+			<w n='2-50'>
+				<text>certo</text>
+				<refs nrefs='1-39'></refs>
+			</w>
+			<w n='2-51'>
+				<text>tipo</text>
+				<refs nrefs='1-37'></refs>
+			</w>
+			<w n='2-52'>
+				<text>dentre</text>
+				<refs nrefs='1-40'></refs>
+			</w>
+			<w n='2-53'>
+				<text>os</text>
+				<refs nrefs='1-40'></refs>
+			</w>
+			<w n='2-54'>
+				<text>entes</text>
+				<refs nrefs='1-41'></refs>
+			</w>
+			<w n='2-55'>
+				<text>;</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-56'>
+				<text>e</text>
+				<refs nrefs='1-46'></refs>
+			</w>
+			<w n='2-57'>
+				<text>dessa</text>
+				<refs nrefs='1-45'></refs>
+			</w>
+			<w n='2-58'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-59'>
+				<text>dizemos</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-60'>
+				<text>uma</text>
+				<refs nrefs='1-47 1-48'></refs>
+			</w>
+			<w n='2-61'>
+				<text>como</text>
+				<refs nrefs='1-49'></refs>
+			</w>
+			<w n='2-62'>
+				<text>matéria</text>
+				<refs nrefs='1-50'></refs>
+			</w>
+			<w n='2-63'>
+				<text>(</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-64'>
+				<text>que</text>
+				<refs nrefs='1-52'></refs>
+			</w>
+			<w n='2-65'>
+				<text>por</text>
+				<refs nrefs='1-53'></refs>
+			</w>
+			<w n='2-66'>
+				<text>si</text>
+				<refs nrefs='1-54'></refs>
+			</w>
+			<w n='2-67'>
+				<text>não</text>
+				<refs nrefs='1-55'></refs>
+			</w>
+			<w n='2-68'>
+				<text>é</text>
+				<refs nrefs='1-56'></refs>
+			</w>
+			<w n='2-69'>
+				<text>algo</text>
+				<refs nrefs='1-58'></refs>
+			</w>
+			<w n='2-70'>
+				<text>determinado</text>
+				<refs nrefs='1-57'></refs>
+			</w>
+			<w n='2-71'>
+				<text>)</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-72'>
+				<text>e</text>
+				<refs nrefs='1-60 1-61'></refs>
+			</w>
+			<w n='2-73'>
+				<text>outra</text>
+				<refs nrefs='1-60 1-61'></refs>
+			</w>
+			<w n='2-74'>
+				<text>como</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-75'>
+				<text>figura</text>
+				<refs nrefs='1-62'></refs>
+			</w>
+			<w n='2-76'>
+				<text>e</text>
+				<refs nrefs='1-63'></refs>
+			</w>
+			<w n='2-77'>
+				<text>forma</text>
+				<refs nrefs='1-64'></refs>
+			</w>
+			<w n='2-78'>
+				<text>(</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-79'>
+				<text>segundo</text>
+				<refs nrefs='1-66'></refs>
+			</w>
+			<w n='2-80'>
+				<text>a</text>
+				<refs nrefs='1-67'></refs>
+			</w>
+			<w n='2-81'>
+				<text>qual</text>
+				<refs nrefs='1-67'></refs>
+			</w>
+			<w n='2-82'>
+				<text>já</text>
+				<refs nrefs='1-68'></refs>
+			</w>
+			<w n='2-83'>
+				<text>se</text>
+				<refs nrefs='1-69'></refs>
+			</w>
+			<w n='2-84'>
+				<text>diz</text>
+				<refs nrefs='1-69'></refs>
+			</w>
+			<w n='2-85'>
+				<text>algo</text>
+				<refs nrefs='1-71'></refs>
+			</w>
+			<w n='2-86'>
+				<text>determinado</text>
+				<refs nrefs='1-70'></refs>
+			</w>
+			<w n='2-87'>
+				<text>)</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-88'>
+				<text>e</text>
+				<refs nrefs='1-73'></refs>
+			</w>
+			<w n='2-89'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-90'>
+				<text>por</text>
+				<refs nrefs='1-74'></refs>
+			</w>
+			<w n='2-91'>
+				<text>fim</text>
+				<refs nrefs='1-74'></refs>
+			</w>
+			<w n='2-92'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-93'>
+				<text>o</text>
+				<refs nrefs='1-75'></refs>
+			</w>
+			<w n='2-94'>
+				<text>que</text>
+				<refs nrefs='1-75'></refs>
+			</w>
+			<w n='2-95'>
+				<text>é</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-96'>
+				<text>composto</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-97'>
+				<text>por</text>
+				<refs nrefs='1-76'></refs>
+			</w>
+			<w n='2-98'>
+				<text>ambas</text>
+				<refs nrefs='1-77'></refs>
+			</w>
+			<w n='2-99'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-100'>
+				<text>A</text>
+				<refs nrefs='1-81'></refs>
+			</w>
+			<w n='2-101'>
+				<text>matéria</text>
+				<refs nrefs='1-83'></refs>
+			</w>
+			<w n='2-102'>
+				<text>é</text>
+				<refs nrefs='1-79'></refs>
+			</w>
+			<w n='2-103'>
+				<text>potência</text>
+				<refs nrefs='1-84'></refs>
+			</w>
+			<w n='2-104'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-105'>
+				<text>a</text>
+				<refs nrefs='1-86'></refs>
+			</w>
+			<w n='2-106'>
+				<text>forma</text>
+				<refs nrefs='1-88'></refs>
+			</w>
+			<w n='2-107'>
+				<text>é</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-108'>
+				<text>atualidade</text>
+				<refs nrefs='1-89'></refs>
+			</w>
+			<w n='2-109'>
+				<text>e</text>
+				<refs nrefs='1-91'></refs>
+			</w>
+			<w n='2-110'>
+				<text>isso</text>
+				<refs nrefs='1-92'></refs>
+			</w>
+			<w n='2-111'>
+				<text>duplamente</text>
+				<refs nrefs='1-93'></refs>
+			</w>
+			<w n='2-112'>
+				<text>:</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-113'>
+				<text>como</text>
+				<refs nrefs='1-97'></refs>
+			</w>
+			<w n='2-114'>
+				<text>conhecimento</text>
+				<refs nrefs='1-98'></refs>
+			</w>
+			<w n='2-115'>
+				<text>e</text>
+				<refs nrefs='1-101'></refs>
+			</w>
+			<w n='2-116'>
+				<text>como</text>
+				<refs nrefs='1-102'></refs>
+			</w>
+			<w n='2-117'>
+				<text>contemplação</text>
+				<refs nrefs='1-104'></refs>
+			</w>
+			<w n='2-118'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-119'>
+				<text>###</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-120'>
+				<text>Substâncias</text>
+				<refs nrefs='1-106'></refs>
+			</w>
+			<w n='2-121'>
+				<text>parecem</text>
+				<refs nrefs='1-110'></refs>
+			</w>
+			<w n='2-122'>
+				<text>ser</text>
+				<refs nrefs='1-109'></refs>
+			</w>
+			<w n='2-123'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-124'>
+				<text>antes</text>
+				<refs nrefs='1-108'></refs>
+			</w>
+			<w n='2-125'>
+				<text>de</text>
+				<refs nrefs='1-108'></refs>
+			</w>
+			<w n='2-126'>
+				<text>mais</text>
+				<refs nrefs='1-108'></refs>
+			</w>
+			<w n='2-127'>
+				<text>nada</text>
+				<refs nrefs='1-108'></refs>
+			</w>
+			<w n='2-128'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-129'>
+				<text>os</text>
+				<refs nrefs='1-111'></refs>
+			</w>
+			<w n='2-130'>
+				<text>corpos</text>
+				<refs nrefs='1-112'></refs>
+			</w>
+			<w n='2-131'>
+				<text>;</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-132'>
+				<text>e</text>
+				<refs nrefs='1-114'></refs>
+			</w>
+			<w n='2-133'>
+				<text>destes</text>
+				<refs nrefs='1-115'></refs>
+			</w>
+			<w n='2-134'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-135'>
+				<text>os</text>
+				<refs nrefs='1-116'></refs>
+			</w>
+			<w n='2-136'>
+				<text>naturais</text>
+				<refs nrefs='1-117'></refs>
+			</w>
+			<w n='2-137'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-138'>
+				<text>visto</text>
+				<refs nrefs='1-120'></refs>
+			</w>
+			<w n='2-139'>
+				<text>que</text>
+				<refs nrefs='1-120'></refs>
+			</w>
+			<w n='2-140'>
+				<text>são</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-141'>
+				<text>princípios</text>
+				<refs nrefs='1-123'></refs>
+			</w>
+			<w n='2-142'>
+				<text>dos</text>
+				<refs nrefs='1-121'></refs>
+			</w>
+			<w n='2-143'>
+				<text>demais</text>
+				<refs nrefs='1-122'></refs>
+			</w>
+			<w n='2-144'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-145'>
+				<text>Dentre</text>
+				<refs nrefs='1-125'></refs>
+			</w>
+			<w n='2-146'>
+				<text>os</text>
+				<refs nrefs='1-125'></refs>
+			</w>
+			<w n='2-147'>
+				<text>corpos</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-148'>
+				<text>naturais</text>
+				<refs nrefs='1-127'></refs>
+			</w>
+			<w n='2-149'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-150'>
+				<text>alguns</text>
+				<refs nrefs='1-128 1-129'></refs>
+			</w>
+			<w n='2-151'>
+				<text>possuem</text>
+				<refs nrefs='1-130'></refs>
+			</w>
+			<w n='2-152'>
+				<text>vida</text>
+				<refs nrefs='1-131'></refs>
+			</w>
+			<w n='2-153'>
+				<text>e</text>
+				<refs nrefs='1-133 1-134'></refs>
+			</w>
+			<w n='2-154'>
+				<text>outros</text>
+				<refs nrefs='1-133 1-134'></refs>
+			</w>
+			<w n='2-155'>
+				<text>não</text>
+				<refs nrefs='1-135'></refs>
+			</w>
+			<w n='2-156'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-157'>
+				<text>Vida</text>
+				<refs nrefs='1-138'></refs>
+			</w>
+			<w n='2-158'>
+				<text>dizemos</text>
+				<refs nrefs='1-140'></refs>
+			</w>
+			<w n='2-159'>
+				<text>do</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-160'>
+				<text>que</text>
+				<refs nrefs='1-141'></refs>
+			</w>
+			<w n='2-161'>
+				<text>por</text>
+				<refs nrefs='1-142'></refs>
+			</w>
+			<w n='2-162'>
+				<text>si</text>
+				<refs nrefs='1-143'></refs>
+			</w>
+			<w n='2-163'>
+				<text>mesmo</text>
+				<refs nrefs='1-143'></refs>
+			</w>
+			<w n='2-164'>
+				<text>se</text>
+				<refs nrefs='1-144'></refs>
+			</w>
+			<w n='2-165'>
+				<text>alimenta</text>
+				<refs nrefs='1-144'></refs>
+			</w>
+			<w n='2-166'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-167'>
+				<text>cresce</text>
+				<refs nrefs='1-147'></refs>
+			</w>
+			<w n='2-168'>
+				<text>e</text>
+				<refs nrefs='1-148'></refs>
+			</w>
+			<w n='2-169'>
+				<text>decai</text>
+				<refs nrefs='1-149'></refs>
+			</w>
+			<w n='2-170'>
+				<text>;</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-171'>
+				<text>de</text>
+				<refs nrefs='1-151'></refs>
+			</w>
+			<w n='2-172'>
+				<text>modo</text>
+				<refs nrefs='1-151'></refs>
+			</w>
+			<w n='2-173'>
+				<text>que</text>
+				<refs nrefs='1-151'></refs>
+			</w>
+			<w n='2-174'>
+				<text>todo</text>
+				<refs nrefs='1-152'></refs>
+			</w>
+			<w n='2-175'>
+				<text>corpo</text>
+				<refs nrefs='1-153'></refs>
+			</w>
+			<w n='2-176'>
+				<text>natural</text>
+				<refs nrefs='1-154'></refs>
+			</w>
+			<w n='2-177'>
+				<text>que</text>
+				<refs nrefs='1-155'></refs>
+			</w>
+			<w n='2-178'>
+				<text>compartilha</text>
+				<refs nrefs='1-155'></refs>
+			</w>
+			<w n='2-179'>
+				<text>da</text>
+				<refs nrefs='1-156'></refs>
+			</w>
+			<w n='2-180'>
+				<text>vida</text>
+				<refs nrefs='1-156'></refs>
+			</w>
+			<w n='2-181'>
+				<text>seria</text>
+				<refs nrefs='1-158 1-159'></refs>
+			</w>
+			<w n='2-182'>
+				<text>substância</text>
+				<refs nrefs='1-157'></refs>
+			</w>
+			<w n='2-183'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-184'>
+				<text>e</text>
+				<refs nrefs='1-162'></refs>
+			</w>
+			<w n='2-185'>
+				<text>precisamente</text>
+				<refs nrefs='1-163'></refs>
+			</w>
+			<w n='2-186'>
+				<text>como</text>
+				<refs nrefs='1-164'></refs>
+			</w>
+			<w n='2-187'>
+				<text>composto</text>
+				<refs nrefs='1-165'></refs>
+			</w>
+			<w n='2-188'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-189'>
+				<text>###</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-190'>
+				<text>Tendo</text>
+				<refs nrefs='1-167'></refs>
+			</w>
+			<w n='2-191'>
+				<text>em</text>
+				<refs nrefs='1-167'></refs>
+			</w>
+			<w n='2-192'>
+				<text>vista</text>
+				<refs nrefs='1-167'></refs>
+			</w>
+			<w n='2-193'>
+				<text>que</text>
+				<refs nrefs='1-167'></refs>
+			</w>
+			<w n='2-194'>
+				<text>é</text>
+				<refs nrefs='1-169'></refs>
+			</w>
+			<w n='2-195'>
+				<text>um</text>
+				<refs nrefs='1-171'></refs>
+			</w>
+			<w n='2-196'>
+				<text>corpo</text>
+				<refs nrefs='1-171'></refs>
+			</w>
+			<w n='2-197'>
+				<text>desse</text>
+				<refs nrefs='1-172'></refs>
+			</w>
+			<w n='2-198'>
+				<text>tipo</text>
+				<refs nrefs='1-172'></refs>
+			</w>
+			<w n='2-199'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-200'>
+				<text>já</text>
+				<refs nrefs='1-175'></refs>
+			</w>
+			<w n='2-201'>
+				<text>que</text>
+				<refs nrefs='1-175'></refs>
+			</w>
+			<w n='2-202'>
+				<text>é</text>
+				<refs nrefs='1-176'></refs>
+			</w>
+			<w n='2-203'>
+				<text>com</text>
+				<refs nrefs='1-176'></refs>
+			</w>
+			<w n='2-204'>
+				<text>vida</text>
+				<refs nrefs='1-174'></refs>
+			</w>
+			<w n='2-205'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-206'>
+				<text>a</text>
+				<refs nrefs='1-182'></refs>
+			</w>
+			<w n='2-207'>
+				<text>alma</text>
+				<refs nrefs='1-183'></refs>
+			</w>
+			<w n='2-208'>
+				<text>não</text>
+				<refs nrefs='1-178'></refs>
+			</w>
+			<w n='2-209'>
+				<text>poderia</text>
+				<refs nrefs='1-179 1-180'></refs>
+			</w>
+			<w n='2-210'>
+				<text>ser</text>
+				<refs nrefs='1-179 1-180'></refs>
+			</w>
+			<w n='2-211'>
+				<text>corpo</text>
+				<refs nrefs='1-181'></refs>
+			</w>
+			<w n='2-212'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-213'>
+				<text>pois</text>
+				<refs nrefs='1-186'></refs>
+			</w>
+			<w n='2-214'>
+				<text>o</text>
+				<refs nrefs='1-191'></refs>
+			</w>
+			<w n='2-215'>
+				<text>corpo</text>
+				<refs nrefs='1-192'></refs>
+			</w>
+			<w n='2-216'>
+				<text>não</text>
+				<refs nrefs='1-185'></refs>
+			</w>
+			<w n='2-217'>
+				<text>é</text>
+				<refs nrefs='1-187'></refs>
+			</w>
+			<w n='2-218'>
+				<text>de</text>
+				<refs nrefs='1-189'></refs>
+			</w>
+			<w n='2-219'>
+				<text>um</text>
+				<refs nrefs='1-190'></refs>
+			</w>
+			<w n='2-220'>
+				<text>subjacente</text>
+				<refs nrefs='1-190'></refs>
+			</w>
+			<w n='2-221'>
+				<text>e</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-222'>
+				<text>da</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-223'>
+				<text>matéria</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-224'>
+				<text>;</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-225'>
+				<text>ao</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-226'>
+				<text>contrário</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-227'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-228'>
+				<text>é</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-229'>
+				<text>sobretudo</text>
+				<refs nrefs='1-194'></refs>
+			</w>
+			<w n='2-230'>
+				<text>como</text>
+				<refs nrefs='1-196'></refs>
+			</w>
+			<w n='2-231'>
+				<text>subjacente</text>
+				<refs nrefs='1-197'></refs>
+			</w>
+			<w n='2-232'>
+				<text>e</text>
+				<refs nrefs='1-198'></refs>
+			</w>
+			<w n='2-233'>
+				<text>matéria</text>
+				<refs nrefs='1-199'></refs>
+			</w>
+			<w n='2-234'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-235'>
+				<text>É</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-236'>
+				<text>necessário</text>
+				<refs nrefs='1-201'></refs>
+			</w>
+			<w n='2-237'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-238'>
+				<text>portanto</text>
+				<refs nrefs='1-202'></refs>
+			</w>
+			<w n='2-239'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-240'>
+				<text>que</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-241'>
+				<text>a</text>
+				<refs nrefs='1-203'></refs>
+			</w>
+			<w n='2-242'>
+				<text>alma</text>
+				<refs nrefs='1-204'></refs>
+			</w>
+			<w n='2-243'>
+				<text>seja</text>
+				<refs nrefs='1-206'></refs>
+			</w>
+			<w n='2-244'>
+				<text>substância</text>
+				<refs nrefs='1-205'></refs>
+			</w>
+			<w n='2-245'>
+				<text>como</text>
+				<refs nrefs='1-207'></refs>
+			</w>
+			<w n='2-246'>
+				<text>forma</text>
+				<refs nrefs='1-208'></refs>
+			</w>
+			<w n='2-247'>
+				<text>de</text>
+				<refs nrefs='1-209'></refs>
+			</w>
+			<w n='2-248'>
+				<text>um</text>
+				<refs nrefs='1-209'></refs>
+			</w>
+			<w n='2-249'>
+				<text>corpo</text>
+				<refs nrefs='1-209'></refs>
+			</w>
+			<w n='2-250'>
+				<text>natural</text>
+				<refs nrefs='1-210'></refs>
+			</w>
+			<w n='2-251'>
+				<text>possuidor</text>
+				<refs nrefs='1-213'></refs>
+			</w>
+			<w n='2-252'>
+				<text>de</text>
+				<refs nrefs='1-213'></refs>
+			</w>
+			<w n='2-253'>
+				<text>vida</text>
+				<refs nrefs='1-212'></refs>
+			</w>
+			<w n='2-254'>
+				<text>em</text>
+				<refs nrefs='1-211'></refs>
+			</w>
+			<w n='2-255'>
+				<text>potência</text>
+				<refs nrefs='1-211'></refs>
+			</w>
+			<w n='2-256'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-257'>
+				<text>###</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-258'>
+				<text>A</text>
+				<refs nrefs='1-215'></refs>
+			</w>
+			<w n='2-259'>
+				<text>substância</text>
+				<refs nrefs='1-217'></refs>
+			</w>
+			<w n='2-260'>
+				<text>«</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-261'>
+				<text>como</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-262'>
+				<text>forma</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-263'>
+				<text>»</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-264'>
+				<text>é</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-265'>
+				<text>atualidade</text>
+				<refs nrefs='1-218'></refs>
+			</w>
+			<w n='2-266'>
+				<text>;</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-267'>
+				<text>é</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-268'>
+				<text>atualidade</text>
+				<refs nrefs='1-223'></refs>
+			</w>
+			<w n='2-269'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-270'>
+				<text>portanto</text>
+				<refs nrefs='1-221'></refs>
+			</w>
+			<w n='2-271'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-272'>
+				<text>de</text>
+				<refs nrefs='1-222'></refs>
+			</w>
+			<w n='2-273'>
+				<text>um</text>
+				<refs nrefs='1-222'></refs>
+			</w>
+			<w n='2-274'>
+				<text>corpo</text>
+				<refs nrefs='1-222'></refs>
+			</w>
+			<w n='2-275'>
+				<text>assim</text>
+				<refs nrefs='1-220'></refs>
+			</w>
+			<w n='2-276'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-277'>
+				<text>Essa</text>
+				<refs nrefs='1-225'></refs>
+			</w>
+			<w n='2-278'>
+				<text>é</text>
+				<refs nrefs='1-227'></refs>
+			</w>
+			<w n='2-279'>
+				<text>dita</text>
+				<refs nrefs='1-227'></refs>
+			</w>
+			<w n='2-280'>
+				<text>de</text>
+				<refs nrefs='1-228'></refs>
+			</w>
+			<w n='2-281'>
+				<text>dois</text>
+				<refs nrefs='1-228'></refs>
+			</w>
+			<w n='2-282'>
+				<text>modos</text>
+				<refs nrefs='1-228'></refs>
+			</w>
+			<w n='2-283'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-284'>
+				<text>como</text>
+				<refs nrefs='1-232'></refs>
+			</w>
+			<w n='2-285'>
+				<text>conhecimento</text>
+				<refs nrefs='1-233'></refs>
+			</w>
+			<w n='2-286'>
+				<text>e</text>
+				<refs nrefs='1-236'></refs>
+			</w>
+			<w n='2-287'>
+				<text>como</text>
+				<refs nrefs='1-237'></refs>
+			</w>
+			<w n='2-288'>
+				<text>contemplação</text>
+				<refs nrefs='1-239'></refs>
+			</w>
+			<w n='2-289'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-290'>
+				<text>É</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-291'>
+				<text>claro</text>
+				<refs nrefs='1-241'></refs>
+			</w>
+			<w n='2-292'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-293'>
+				<text>então</text>
+				<refs nrefs='1-242'></refs>
+			</w>
+			<w n='2-294'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-295'>
+				<text>que</text>
+				<refs nrefs='1-243'></refs>
+			</w>
+			<w n='2-296'>
+				<text>ela</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-297'>
+				<text>é</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-298'>
+				<text>como</text>
+				<refs nrefs='1-244'></refs>
+			</w>
+			<w n='2-299'>
+				<text>o</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-300'>
+				<text>conhecimento</text>
+				<refs nrefs='1-245'></refs>
+			</w>
+			<w n='2-301'>
+				<text>;</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-302'>
+				<text>pois</text>
+				<refs nrefs='1-248'></refs>
+			</w>
+			<w n='2-303'>
+				<text>naquilo</text>
+				<refs nrefs='1-247 1-249'></refs>
+			</w>
+			<w n='2-304'>
+				<text>a</text>
+				<refs nrefs='1-247 1-249'></refs>
+			</w>
+			<w n='2-305'>
+				<text>que</text>
+				<refs nrefs='1-247 1-249'></refs>
+			</w>
+			<w n='2-306'>
+				<text>pertence</text>
+				<refs nrefs='1-250'></refs>
+			</w>
+			<w n='2-307'>
+				<text>a</text>
+				<refs nrefs='1-251'></refs>
+			</w>
+			<w n='2-308'>
+				<text>alma</text>
+				<refs nrefs='1-252'></refs>
+			</w>
+			<w n='2-309'>
+				<text>há</text>
+				<refs nrefs='1-257'></refs>
+			</w>
+			<w n='2-310'>
+				<text>sono</text>
+				<refs nrefs='1-254'></refs>
+			</w>
+			<w n='2-311'>
+				<text>e</text>
+				<refs nrefs='1-255'></refs>
+			</w>
+			<w n='2-312'>
+				<text>vigília</text>
+				<refs nrefs='1-256'></refs>
+			</w>
+			<w n='2-313'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-314'>
+				<text>e</text>
+				<refs nrefs='1-260'></refs>
+			</w>
+			<w n='2-315'>
+				<text>a</text>
+				<refs nrefs='1-261'></refs>
+			</w>
+			<w n='2-316'>
+				<text>vigília</text>
+				<refs nrefs='1-263'></refs>
+			</w>
+			<w n='2-317'>
+				<text>é</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-318'>
+				<text>análoga</text>
+				<refs nrefs='1-259'></refs>
+			</w>
+			<w n='2-319'>
+				<text>ao</text>
+				<refs nrefs='1-264'></refs>
+			</w>
+			<w n='2-320'>
+				<text>contemplar</text>
+				<refs nrefs='1-265'></refs>
+			</w>
+			<w n='2-321'>
+				<text>e</text>
+				<refs nrefs='1-268'></refs>
+			</w>
+			<w n='2-322'>
+				<text>o</text>
+				<refs nrefs='1-267'></refs>
+			</w>
+			<w n='2-323'>
+				<text>sono</text>
+				<refs nrefs='1-269'></refs>
+			</w>
+			<w n='2-324'>
+				<text>ao</text>
+				<refs nrefs='1-270'></refs>
+			</w>
+			<w n='2-325'>
+				<text>ter</text>
+				<refs nrefs='1-271'></refs>
+			</w>
+			<w n='2-326'>
+				<text>e</text>
+				<refs nrefs='1-272'></refs>
+			</w>
+			<w n='2-327'>
+				<text>não</text>
+				<refs nrefs='1-273'></refs>
+			</w>
+			<w n='2-328'>
+				<text>exercer</text>
+				<refs nrefs='1-274'></refs>
+			</w>
+			<w n='2-329'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-330'>
+				<text>⁠</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-331'>
+				<text>O</text>
+				<refs nrefs='1-283'></refs>
+			</w>
+			<w n='2-332'>
+				<text>conhecimento</text>
+				<refs nrefs='1-284'></refs>
+			</w>
+			<w n='2-333'>
+				<text>é</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-334'>
+				<text>anterior</text>
+				<refs nrefs='1-276'></refs>
+			</w>
+			<w n='2-335'>
+				<text>no</text>
+				<refs nrefs='1-278'></refs>
+			</w>
+			<w n='2-336'>
+				<text>desenvolvimento</text>
+				<refs nrefs='1-279'></refs>
+			</w>
+			<w n='2-337'>
+				<text>do</text>
+				<refs nrefs='1-280 1-281'></refs>
+			</w>
+			<w n='2-338'>
+				<text>indivíduo</text>
+				<refs nrefs='1-282'></refs>
+			</w>
+			<w n='2-339'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-340'>
+				<text>motivo</text>
+				<refs nrefs='1-286'></refs>
+			</w>
+			<w n='2-341'>
+				<text>pelo</text>
+				<refs nrefs='1-286'></refs>
+			</w>
+			<w n='2-342'>
+				<text>qual</text>
+				<refs nrefs='1-286'></refs>
+			</w>
+			<w n='2-343'>
+				<text>a</text>
+				<refs nrefs='1-287'></refs>
+			</w>
+			<w n='2-344'>
+				<text>alma</text>
+				<refs nrefs='1-288'></refs>
+			</w>
+			<w n='2-345'>
+				<text>é</text>
+				<refs nrefs='1-289'></refs>
+			</w>
+			<w n='2-346'>
+				<text>a</text>
+				<refs nrefs='1-291'></refs>
+			</w>
+			<w n='2-347'>
+				<text>primeira⁠</text>
+				<refs nrefs='1-292'></refs>
+			</w>
+			<w n='2-348'>
+				<text>completude</text>
+				<refs nrefs='1-290'></refs>
+			</w>
+			<w n='2-349'>
+				<text>de</text>
+				<refs nrefs='1-293'></refs>
+			</w>
+			<w n='2-350'>
+				<text>um</text>
+				<refs nrefs='1-293'></refs>
+			</w>
+			<w n='2-351'>
+				<text>corpo</text>
+				<refs nrefs='1-293'></refs>
+			</w>
+			<w n='2-352'>
+				<text>natural</text>
+				<refs nrefs='1-294'></refs>
+			</w>
+			<w n='2-353'>
+				<text>que</text>
+				<refs nrefs='1-297'></refs>
+			</w>
+			<w n='2-354'>
+				<text>tem</text>
+				<refs nrefs='1-297'></refs>
+			</w>
+			<w n='2-355'>
+				<text>vida</text>
+				<refs nrefs='1-296'></refs>
+			</w>
+			<w n='2-356'>
+				<text>em</text>
+				<refs nrefs='1-295'></refs>
+			</w>
+			<w n='2-357'>
+				<text>potência</text>
+				<refs nrefs='1-295'></refs>
+			</w>
+			<w n='2-358'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+		</wds>
+	</sentence>
+</aligned-text>
