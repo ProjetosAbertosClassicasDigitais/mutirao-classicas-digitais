@@ -33,7 +33,7 @@
 ## Guidelines para alinhamento de tradução
 
 * [No UGARIT](https://ugarit.ialigner.com/guidelines.php) Para várias línguas incluindo grego-português
-* [Atual Gold standard para português](https://github.com/UgaritAlignment/Alignment-Gold-Standards/blob/main/grc-por/Convencoes-de-alinhamento-Grego-Portugues.pages.pdf)
+* [Atual Gold standard para português](https://github.com/UgaritAlignment/Alignment-Gold-Standards/blob/main/grc-por/Convencoes-de-alinhamento-Grego-Portugues.pages.pdf) Atualizado [aqui](https://github.com/aniseferreira/LetrasClassicasDigitais/edit/master/alignment_conventions_portuguese.md)
 
 ## Algumas fontes bibliográficas sobre traduções alinhadas
 
