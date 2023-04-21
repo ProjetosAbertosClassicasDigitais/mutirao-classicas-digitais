@@ -39,6 +39,7 @@ Email para contato: classicas.digitais@gmail.com
 * Simone de Oliveira, profª drª, Participante, UFRJ
 * Pedro R. Martins,  prof.dr., Participante, UFRJ
 * Thaís Viríssimo,profª m., Participante,  UFRJ
+* Bárbara Perez, profª m., Participante, UFRJ
 
 
 ### Inscritos inicialmente com colaboração restrita ou temporária
