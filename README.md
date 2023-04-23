@@ -42,7 +42,7 @@ Email para contato: classicas.digitais@gmail.com
 * Bárbara Perez, profª m., Participante, UFRJ
 
 
-### Inscritos inicialmente com colaboração restrita ou temporária
+### Inscritos com colaboração/participação temporária e inicial 
 
 * Daniel Falkemback Ribeiro, prof. dr., Universidade Federal do Paraná, UFPR
 * Bernardo César Diniz Athayde Vasconcelos, doutorando em Filosofia, Universidade Federal de Minas Gerais, UFMG
